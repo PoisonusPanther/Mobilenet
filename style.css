@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(24, 163, 151);
+}
+.header_div{
+ font-family: "Pangolin", sans-serif;
+ margin-bottom: 50px;
+ width: 100%;
+ background-color: white;
+ color: tomato;
+}
+.main_div{
+    background-color: rgb(24, 228, 194);
+    padding: 5px;
+    border: white 2px solid;
+    margin-top: 5px;
+}
+.main_div h4{
+    box-shadow: 5px 5px 18px white;
+    width: 310px;
+    background-color: azure;
+    color: tomato;
+    border-radius: 5px;
+}
+#camera, #snapshot{
+    border: white 2px solid;
+    width: 310px;
+    height: 300px;
+}
+.main_div button{
+    width: 310px;
+}
+.footer_div{
+    background-color: white;
+    width: 100%;
+}
+.footer_div textarea{
+    box-shadow: 5px 5px 18px rgb(184, 181, 181);
+    border: rgb(184,181, 181) 2px solid;
+    border-radius: 5px;
+    width: 310px;
+    height: 50px;
+}
+.copy_right_div{
+    color: white;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    background-color: grey;
+    bottom: 0;
+}
+
